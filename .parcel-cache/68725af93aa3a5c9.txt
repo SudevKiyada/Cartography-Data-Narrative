@@ -47,9 +47,9 @@
 111F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\caniuse-lite\data\features\css-marker-pseudo.js133009767314740000 0
 139F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133009767235730000 0
 100F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\@parcel\config-default\test\.babelrc133009767236540000 0
-55F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\dist133010463203772109 1
+55F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\dist133010467998915900 1
 99F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\caniuse-lite\data\regions\alt-oc.js133009767314740000 0
-55F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\docs133010464024362724 1
+55F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\docs133010468180996760 1
 81F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\parcel\lib\cli.js133009767402450000 0
 98F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\abortcontroller-polyfill\README.md132924017687460000 0
 91F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\domelementtype\package.json133009767375800000 0
@@ -79,7 +79,7 @@
 88F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\source-map\source-map.js132924017742980000 0
 81F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\terser\lib\cli.js133009767326860000 0
 89F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\@parcel\types\build-ts.js133009767250720000 0
-65F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\src\index.html133010442483346348 0
+65F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\src\index.html133010467992053560 0
 170F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo\bar\package.json133009767354490000 0
 76F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\src\assets\parliament.svg133010441814629082 0
 95F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\caniuse-lite\data\regions\CN.js133009767314740000 0
@@ -1034,7 +1034,7 @@
 78F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\type-fest\ts41133009767614796099 1
 76F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\css-tree\lib133009767604181554 1
 89F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\type-fest\ts41\index.d.ts132924017744020000 0
-66F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\docs\index.html133010464024362724 0
+66F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\docs\index.html133010468180986627 0
 97F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\@parcel\packager-svg\package.json133009767277120000 0
 75F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\motion\dist133009770139762591 1
 94F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\node_modules\type-fest\ts41\kebab-case.d.ts132924017744020000 0
@@ -5487,7 +5487,7 @@
 74F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\dist\index.3b8f328d.css133010371752953540 0
 78F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\dist\index.3b8f328d.css.map133010371752994943 0
 77F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\dist\index.c719088e.js.map133009774135244854 0
-66F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\dist\index.html133010442489547947 0
+66F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\dist\index.html133010467998915900 0
 72F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\dist\lit.092bd345.png133010371753724503 0
 74F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\dist\pro_2.0c1e0a65.png133010371753785712 0
 74F:\NID\Sem4\Cartogrpahy\Cartography-Data-Narrative\dist\pro_3.4261c2b3.png133010371753798194 0
